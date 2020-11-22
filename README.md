@@ -5,8 +5,14 @@ Video style transfer, as a natural extension of image style transfer, has recent
 
 ## Prerequisites
 We recommend Anaconda as the environment
+
+
 Python :3.6 
+
+
 Pytorch :1.4.0
+
+
 Ubuntu :18.04
 
 ## Prepare

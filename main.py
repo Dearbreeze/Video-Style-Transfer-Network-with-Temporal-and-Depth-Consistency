@@ -316,6 +316,6 @@ def stylize(**kwargs):
 
 
 if __name__ == '__main__':
-    # train()
+    train()
     # stylize()
 

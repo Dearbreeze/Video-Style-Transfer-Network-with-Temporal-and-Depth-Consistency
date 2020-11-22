@@ -28,5 +28,5 @@ python mian.py
 ```
 
 ## Test
-Please commented out Train() and uncomment out stylize() in main.py
+Please commented out train() and uncomment out stylize() in main.py
 

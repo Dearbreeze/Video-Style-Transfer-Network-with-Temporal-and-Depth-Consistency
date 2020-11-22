@@ -21,7 +21,7 @@ DepthNet:[github link](https://github.com/A-Jacobson/Depth_in_The_Wild)
 
 BASNet:[github link](https://github.com/NathanUA/BASNet)
 
-##Training
+## Training
 Please set the datasert path and other net path in Class Config from mian.py
 ```
 python mian.py

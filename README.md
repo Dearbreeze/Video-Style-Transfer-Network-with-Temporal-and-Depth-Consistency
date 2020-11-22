@@ -7,14 +7,22 @@ Video style transfer, as a natural extension of image style transfer, has recent
 We recommend Anaconda as the environment
 
 
-Python :3.6 
+Python : 3.6 
 
 
-Pytorch :1.4.0
+Pytorch : 1.4.0
 
 
-Ubuntu :18.04
+Ubuntu : 18.04
 
 ## Prepare
 DepthNet:[github link](https://github.com/A-Jacobson/Depth_in_The_Wild)
+
+
 BASNet:[github link](https://github.com/NathanUA/BASNet)
+
+##Training
+Please set the datasert path and other net path in Class Config from mian.py
+```
+python mian.py
+```

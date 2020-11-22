@@ -24,7 +24,7 @@ BASNet:[github link](https://github.com/NathanUA/BASNet)
 ## Training
 Please set the datasert path and other net path in Class Config from main.py
 ```
-python mian.py
+python main.py
 ```
 
 ## Test

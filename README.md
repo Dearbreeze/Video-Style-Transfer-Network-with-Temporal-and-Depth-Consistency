@@ -15,7 +15,7 @@ Pytorch : 1.4.0
 
 Ubuntu : 18.04
 
-## Prepare
+## Prepare Net
 DepthNet:[github link](https://github.com/A-Jacobson/Depth_in_The_Wild)
 
 

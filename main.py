@@ -46,8 +46,8 @@ class Config(object):
 
     content_weight = 1 #  content_loss 的权重
     style_weight = 1e5 #  style_loss的权重
-    temporal_weight = 100
-    long_temporal_weight = 200
+    temporal_weight = 200
+    long_temporal_weight = 100
     depth_weight = 50
     # tv_weight = 1e-6
     sample_frames = 5
